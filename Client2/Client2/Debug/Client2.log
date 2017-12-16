@@ -1,0 +1,5 @@
+﻿  Client.cpp
+c:\users\user\desktop\client2\client2\client.cpp(125): warning C4101: 'pack' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\client2\client2\client.cpp(127): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+  Client2.vcxproj -> C:\Users\user\Desktop\Client2\Debug\Client2.exe
+  Client2.vcxproj -> C:\Users\user\Desktop\Client2\Debug\Client2.pdb (Full PDB)

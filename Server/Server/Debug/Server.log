@@ -1,0 +1,9 @@
+﻿  Server.cpp
+c:\users\user\desktop\server\server\server.cpp(216): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\server\server\server.cpp(237): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\server\server\server.cpp(258): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\server\server\server.cpp(280): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\user\desktop\server\server\server.cpp(286): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'IN_ADDR'입니다.
+c:\users\user\desktop\server\server\server.cpp(190): warning C4101: 'size' :참조되지 않은 지역 변수입니다.
+  Server.vcxproj -> C:\Users\user\Desktop\Server\Debug\Server.exe
+  Server.vcxproj -> C:\Users\user\Desktop\Server\Debug\Server.pdb (Full PDB)
